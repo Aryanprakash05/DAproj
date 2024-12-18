@@ -31,15 +31,6 @@ Visualizations using matplotlib and seaborn
 Understanding data distributions and relationships
 Machine Learning Models:
 
-Implementations of algorithms like LightGBM, CatBoost, and Random Forest
-Multiclass and multilabel classification with scikit-learn wrappers
-Advanced Techniques:
-
-Classifier Chains, One-vs-One (OvO), and One-vs-Rest (OvR) strategies
-Evaluation metrics for multiclass and multilabel tasks (Accuracy, Matthews Correlation Coefficient, F1-Score)
-Installation
-Follow these steps to set up the project locally:
-
 Clone the repository:
 bash
 Copy code
